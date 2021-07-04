@@ -71,3 +71,20 @@
 > * Unsubscribe
 > * Page_view – visiting page on our website
 > * Amount_of_events – amount of current event during specified minute from registration. For an example if user has visited 3 different pages in one minute then there will be row with ....<event_name=page_view> <Amount_of_events=3>
+
+>##  Libraries Used
+> * Pandas
+> * Matplotlib.pyplot
+> * numpy
+> * collections
+> * sklearn
+> * scipy
+> * scikitplot
+> * xgboost
+> * lightgbm
+
+>##  Models Evaluated
+> * AdaBoostClassifier
+> * XGBClassifier
+> * LGBMClassifier
+> * LogisticRegression
